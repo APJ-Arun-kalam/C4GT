@@ -924,6 +924,6 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>Amrita Vishwa Vidyapeetham</td>
+    <td>Amrita Vishwa Vidyapeetham,Chennai</td>
   </tr>
 </table>
