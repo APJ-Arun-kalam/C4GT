@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Arun VS</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/APJ-Arun-kalam/APJ-Arun-kalam</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/arunudaynidhivs</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Amrita Vishwa Vidyapeetham</td>
+  </tr>
+</table>
